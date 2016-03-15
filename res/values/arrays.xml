@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="schtype">
+        <item>个人日程</item>
+        <item>医院日程</item>
+        <item>科室日程</item>
+        <item>小组日程</item>
+    </string-array>
+    <string-array name="bsname">
+        <item>现病史</item>
+        <item>既往史</item>
+        <item>家族史</item>
+        <item>个人史</item>
+        <item>婚育史</item>
+        <item>月经史</item>
+        <item>过敏史</item>
+        <item>自己添加</item>
+        <item>结束采集</item>
+    </string-array>
+    <string-array name="jyname">
+        <item>内科</item>
+        <item>外科</item>
+        <item>眼</item>
+        <item>耳鼻喉</item>
+        <item>口腔</item>
+        <item>超声</item>
+        <item>放射</item>
+        <item>心电图</item>
+        <item>尿检</item>
+        <item>血检</item>
+        <item>肝功</item>
+        <item>肾功</item>
+        <item>结束采集</item>
+    </string-array>
+    <string-array name="bt">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="mar">
+        <item>未婚</item>
+        <item>已婚</item>
+        <item>离异</item>
+        <item>保密</item>
+    </string-array>
+    <!-- 刻下症结构化采集 -->
+    <string-array name="kebie">
+        <item>内科</item>
+        <item>外科</item>
+        <item>心脑血管科</item>
+        <item>五官科</item>
+    </string-array>
+    <string-array name="pf">
+        <item>轻</item>
+        <item>中</item>
+        <item>重</item>
+    </string-array>
+    <string-array name="yz">
+        <item>轻</item>
+        <item>中</item>
+        <item>重</item>
+    </string-array>
+
+    <!--
+    目
+耳
+鼻
+口
+舌
+咽
+胁 
+头
+胸
+乳
+腹
+腰
+脉
+皮
+肉
+筋
+骨
+情志
+呼吸
+运化
+肛门
+泌尿生殖
+    -->
+    <string-array name="buwei">
+        <item>目</item>
+        <item>耳</item>
+        <item>鼻</item>
+        <item>口</item>
+        <item>舌</item>
+        <item>咽</item>
+        <item>胁 </item>
+        <item>头</item>
+        <item>胸</item>
+        <item>乳</item>
+        <item>腹</item>
+        <item>腰</item>
+        <item>脉</item>
+        <item>皮</item>
+        <item>肉</item>
+        <item>筋</item>
+        <item>骨</item>
+        <item>情志</item>
+        <item>呼吸</item>
+        <item>运化</item>
+        <item>肛门</item>
+        <item>泌尿生殖</item>
+    </string-array>
+
+    <!-- 刻下症结构化采集 -->
+
+</resources>

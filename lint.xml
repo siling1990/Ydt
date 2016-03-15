@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="HardcodedText">
+        <ignore path="res/layout/activity_add_patient.xml" />
+    </issue>
+    <issue id="InflateParams" severity="ignore" />
+    <issue id="TextFields">
+        <ignore path="res/layout/activity_add_patient.xml" />
+    </issue>
+</lint>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">医点通-医生端</string>
+    <string name="app_id">55bec892</string>
+
+    <!-- UI Elements -->
+    <string name="btn_capture">图像识别</string>
+    <string name="menu_settings">Settings</string>
+    <!-- Toast Messages -->
+    <string name="camera_not_found">No camera harware found</string>
+    <string name="take_photo_help">Touch anywhere on screen to take picture</string>
+    <string name="title_activity_main_item">MainItemActivity</string>
+    <string name="activity_about">about_activity</string>
+    <string name="activity_guide">guide_activity</string>
+    <string name="activity_mitem">mitem_activity</string>
+    <string name="activity_overlay">overlay_activity</string>
+    <string name="activity_splash">splash_activity</string>
+    <string name="activity_tab">tab_activity</string>
+    <string name="activity_web">web_activity</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_patient">PatientActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="progress_dialog_image_loading">正在加载...</string>
+    <string name="title_activity_add_patient">AddPatientActivity</string>
+    <!-- addpatient -->
+    <string name="back">返回</string>
+    <string name="save">保存</string>
+    <string name="pid">身份证号：</string>
+    <string name="pno">患者编号：</string>
+    <string name="姓名">姓名：</string>
+    <string name="sex">性别：</string>
+    <string name="nation">民族：</string>
+    <string name="occupation">职业 ：</string>
+    <string name="others">其他：</string>
+    <!-- cliRecored -->
+    <string name="miaoshu">文字描述</string>
+    <string name="cr_name">病例名称</string>
+    <!-- tab zyzsk -->
+    <string name="tab_zyzsk">知识库</string>
+    <!-- showcliRecored -->
+    <string name="bs">病史</string>
+    <string name="jyjc">检验检查</string>
+    <string name="lczz">临床症状</string>
+    <string name="bzzd">辨证诊断</string>
+    <string name="zlff">治疗方法</string>
+    <string name="fy">方药</string>
+    <string name="addmore">添加多媒体信息</string>
+    <string name="title_activity_patient_info">PatientInfoActivity</string>
+    <string name="title_activity_clinic_record">ClinicRecordActivity</string>
+    <string name="title_activity_add_clinic_record">AddClinicRecordActivity</string>
+    <string name="title_activity_schedule">ScheduleActivity</string>
+    <string name="card">Calendar Card</string>
+    <string name="card_pager">Calendar Card Pager</string>
+    <string name="sel_date">Selected date: %s</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_add_record">AddRecordActivity</string>
+    <string name="title_activity_recorder">RecorderActivity</string>
+    <string name="title_activity_show_cl_record">ShowClRecordActivity</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="title_activity_text">TextActivity</string>
+    <string name="title_activity_kxz_collect">KxzCollectActivity</string>
+    <string name="title_activity_show_schedule">ShowScheduleActivity</string>
+    <string name="title_activity_show_zh">ShowZHActivity</string>
+    <string name="title_activity_classic_case">ClassicCaseActivity</string>
+    <string name="title_activity_show_classic_case">ShowClassicCaseActivity</string>
+    <string name="pref_key_iat_show">iat_show</string>
+    <string name="pref_title_iat_show">显示听写界面</string>
+    <string name="pref_title_iat_dwa">结果动态修正</string>
+    <string name="text_begin">请开始说话…</string>
+    <!-- 语言 -->
+    <string-array name="language_entries">
+        <item>普通话</item>
+        <item>粤语</item>
+        <item>河南话</item>
+        <item>英语</item>
+    </string-array>
+    <string-array name="language_values">
+        <item>mandarin</item>
+        <item>cantonese</item>
+        <item>henanese</item>
+        <item>en_us</item>
+    </string-array>
+    <!-- 标点符号 -->
+    <string-array name="punc_entries">
+        <item>有标点</item>
+        <item>无标点</item>
+    </string-array>
+    <string-array name="punc_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="dwa_entries">
+        <item>开启</item>
+        <item>关闭</item>
+    </string-array>
+
+    <string name="title_activity_reg">RegActivity</string>
+    
+     <string name="de_actionbar_sub_group">"群组"</string>
+    <string name="de_actionbar_sub_private">"我的私人会话"</string>
+    <string name="de_actionbar_sub_discussion">"我的讨论组"</string>
+    <string name="de_actionbar_sub_system">"系统消息"</string>
+    <string name="de_actionbar_sub_defult">"聊天"</string>
+
+</resources>
